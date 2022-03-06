@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silky
-- 👀 I’m interested in software development in general
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in full-stack software development in general
+- 🌱 I’m currently learning JavaScript [@Codeworks](https://codeworks.me/)
 - 💞️ I’m looking to collaborate on projects of any size.
 - 📫 How to reach me - silky.ng@gmail.com
 
